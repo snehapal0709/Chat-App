@@ -18,9 +18,13 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "*", // temporary until frontend deployed
-    credentials: true,
-  })
+  origin: [
+    "http://localhost:5173",
+    "https://chat-gtyysbxd9-snehapal0709s-projects.vercel.app"
+  ],
+  credentials: true,
+})
+
 );
 
 app.use("/api/auth", authRoutes);
