@@ -20,7 +20,7 @@ app.use(
   cors({
   origin: [
     "http://localhost:5173",
-    "https://chat-gtyysbxd9-snehapal0709s-projects.vercel.app"
+    "https://chat-app-swart.vercel.app"
   ],
   credentials: true,
 })
