@@ -1,6 +1,4 @@
-# 📌 **README.md (Complete & Polished)**
 
-```md
 # 💬 Fullstack Realtime Chat Application  
 A modern full-stack **Realtime Chat App** built with **React, Node.js, Express, MongoDB, Socket.IO, Cloudinary & JWT Authentication**.
 
