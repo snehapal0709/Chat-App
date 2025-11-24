@@ -188,8 +188,6 @@ You don't need extra setup.
 
 
 
----
-
 ## 🧠 What I Learned
 
 * Building secure JWT authentication
