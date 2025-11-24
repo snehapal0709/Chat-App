@@ -186,15 +186,7 @@ You don't need extra setup.
 
 ---
 
-## 📸 Screenshots (optional)
 
-You can drag your screenshots into GitHub later.
-
-```
-![Signup Page](screenshots/signup.png)
-![Chat UI](screenshots/chat.png)
-![Profile](screenshots/profile.png)
-```
 
 ---
 
